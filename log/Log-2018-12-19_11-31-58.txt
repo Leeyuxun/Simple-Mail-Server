@@ -1,0 +1,35 @@
+start time: 2018-12-19 11:31:58
+——————————————————————————————
+客户端IP地址：10.122.215.102  端口号:11067
+
+220 Mysmtp Service Ready
+EHLO DESKTOP-AN748FA
+
+250 AUTH LOGIN PLAINOK
+250-AUTH=LOGIN PLAIN
+250-STARTTLS
+250 8BITMIME
+AUTH LOGIN
+
+334 VXNlcm5hbWU6
+
+MTc5MTQ2ODUwMUBxcS5jb20=
+
+334 UGFzc3dvcmQ6
+
+b2NkY3JzdXl4Z3JsZWlhZg==
+
+235 Authentication successful
+
+MAIL FROM: <1791468501@qq.com>
+客户端邮箱服务器IP地址: 182.254.34.84  端口号：25
+
+250 OK
+RCPT TO: <leeyuxun@163.com>
+
+250 OK
+接收不到DATA 503 Can't receive DATA
+end time: 2018-12-19 11:31:58
+
+
+

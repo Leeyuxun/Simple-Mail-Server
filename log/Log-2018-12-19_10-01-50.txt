@@ -1,0 +1,409 @@
+start time: 2018-12-19 10:1:50
+——————————————————————————————
+客户端IP地址：10.122.215.102  端口号:10016
+
+220 Mysmtp Service Ready
+EHLO DESKTOP-AN748FA
+
+250 AUTH LOGIN PLAINOK
+250-AUTH=LOGIN PLAIN
+250-STARTTLS
+250 8BITMIME
+AUTH LOGIN
+
+334 VXNlcm5hbWU6
+
+MTc5MTQ2ODUwMUBxcS5jb20=
+
+334 UGFzc3dvcmQ6
+
+b2NkY3JzdXl4Z3JsZWlhZg==
+
+235 Authentication successful
+
+MAIL FROM: <1791468501@qq.com>
+客户端邮箱服务器IP地址: 182.254.34.84  端口号：25
+
+250 OK
+RCPT TO: <leeyuxun@163.com>
+
+250 OK
+RCPT TO: <lililizhilin@outlook.com>
+
+250 OK
+RCPT TO: <1543209422@qq.com>
+
+250 OK
+DATA
+
+354 Start mail input: end with <CRLF>.<CRLF>
+接收DATA fragment, ...bytes
+
+Date: Wed, 19 Dec 2018 10:01:50 +0800
+From: "1791468501@qq.com" <1791468501@qq.com>
+To: leeyuxun <leeyuxun@163.com>, 
+	lililizhilin <lililizhilin@outlook.com>, 
+	1543209422 <1543209422@qq.com>
+Subject: =?GB2312?B?T1NJxt+y48Sj0M0=?=
+X-Priority: 3
+X-GUID: 64F2797C-79F6-4C1F-9FF6-B0BAB0E22CF1
+X-Has-Attach: no
+X-Mailer: Foxmail 7.2.9.156[cn]
+Mime-Version: 1.0
+Message-ID: <201812191001392754064@qq.com>
+Content-Type: multipart/alternative;
+	boundary="----=_001_NextPart262205206487_=----"
+
+
+接收imf
+
+This is a multi-part message in MIME format.
+
+------=_001_NextPart262205206487_=----
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Transfer-Encoding: base64
+
+DQq/qrfFyr3Ptc2zu6XBqs2o0MWyzr+8xKPQzaOo06LT76O6T3BlbiBTeXN0ZW0gSW50ZXJjb25u
+ZWN0aW9uIFJlZmVyZW5jZSBNb2RlbKOsy/XQtM6qIE9TSaOpo6y88rPGzqpPU0nEo9DNo6hPU0kg
+bW9kZWyjqaOs0rvW1rjFxO7Eo9DNo6zTybn6vMqx6te8u6/X6davzOGz9qOs0ru49srUzbzKubj3
+1ta8xsvju/rU2srAvee3ts6nxNq7pcGszqrN+MLntcSx6te8v/K83KGjtqjS5dPaSVNPL0lFQyA3
+NDk4LTGhow0K19S2pc/yz8INCrXa0ruy46O606bTw7LjDQq12rb+suOjurHtyr6y4w0KtdrI/bLj
+o7q74buwsuMNCrXay8Sy46O6tKvK5LLjDQq12s7lsuOjus34wuey4w0KtdrB+bLjo7rK/b7dwbTC
+t7LjDQq12sbfsuOjus7vwO2y4w0KDQoNCg0KbGVleXV4dW5AMTYzLmNvbQ0K
+
+------=_001_NextPart262205206487_=----
+Content-Type: text/html;
+	charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charse=
+t=3DGB2312"><style>body { line-height: 1.5; }body { font-size: 10.5pt; fon=
+t-family: 'Microsoft YaHei UI'; color: rgb(0, 0, 0); line-height: 1.5; }bo=
+dy { font-size: 10.5pt; font-family: 'Microsoft YaHei UI'; color: rgb(0, 0=
+, 0); line-height: 1.5; }</style></head><body>=0A<div><span></span><br></d=
+iv><div><div><div style=3D"position: static !important; orphans: 2; text-i=
+ndent: 28px; widows: 2;"><span style=3D"color: rgb(51, 51, 51); font-famil=
+y: arial, =CB=CE=CC=E5, sans-serif;">=BF=AA=B7=C5=CA=BD=CF=B5=CD=B3=BB=A5=
+=C1=AA=CD=A8=D0=C5=B2=CE=BF=BC=C4=A3=D0=CD=A3=A8=D3=A2=D3=EF=A3=BAOpen Sys=
+tem Interconnection Reference Model=A3=AC=CB=F5=D0=B4=CE=AA OSI=A3=A9=A3=
+=AC=BC=F2=B3=C6=CE=AAOSI=C4=A3=D0=CD=A3=A8OSI model=A3=A9=A3=AC=D2=BB=D6=
+=D6=B8=C5=C4=EE=C4=A3=D0=CD=A3=AC=D3=C9=B9=FA=BC=CA=B1=EA=D7=BC=BB=AF=D7=
+=E9=D6=AF=CC=E1=B3=F6=A3=AC=D2=BB=B8=F6=CA=D4=CD=BC=CA=B9=B8=F7=D6=D6=BC=
+=C6=CB=E3=BB=FA=D4=DA=CA=C0=BD=E7=B7=B6=CE=A7=C4=DA=BB=A5=C1=AC=CE=AA=CD=
+=F8=C2=E7=B5=C4=B1=EA=D7=BC=BF=F2=BC=DC=A1=A3=B6=A8=D2=E5=D3=DAISO/IEC 749=
+8-1=A1=A3</span></div></div><div style=3D"orphans: 2; text-indent: 28px; w=
+idows: 2;"><div>=D7=D4=B6=A5=CF=F2=CF=C2</div><div>=B5=DA=D2=BB=B2=E3=A3=
+=BA=D3=A6=D3=C3=B2=E3</div><div>=B5=DA=B6=FE=B2=E3=A3=BA=B1=ED=CA=BE=B2=E3=
+</div><div>=B5=DA=C8=FD=B2=E3=A3=BA=BB=E1=BB=B0=B2=E3</div><div>=B5=DA=CB=
+=C4=B2=E3=A3=BA=B4=AB=CA=E4=B2=E3</div><div>=B5=DA=CE=E5=B2=E3=A3=BA=CD=F8=
+=C2=E7=B2=E3</div><div>=B5=DA=C1=F9=B2=E3=A3=BA=CA=FD=BE=DD=C1=B4=C2=B7=B2=
+=E3</div><div>=B5=DA=C6=DF=B2=E3=A3=BA=CE=EF=C0=ED=B2=E3</div></div></div>=
+=0A<div><br></div><hr style=3D"width: 210px; height: 1px;" color=3D"#b5c4d=
+f" size=3D"1" align=3D"left">=0A<div><span><div style=3D"MARGIN: 10px; FON=
+T-FAMILY: verdana; FONT-SIZE: 10pt"><div>leeyuxun@163.com</div></div></spa=
+n></div>=0A</body></html>
+------=_001_NextPart262205206487_=------
+
+接收
+.
+
+250 OK
+QUIT
+
+221 Bye
+
+——————————————————————————————
+
+邮件长度：2815字节
+
+——————————————————————————————
+
+
+开始发送邮件
+目的邮箱1
+连接成功
+本地IP地址：10.122.215.102  SMTP发送端口:25
+send start time: 2018-12-19 10:1:51
+——————————————————————————————
+接收状态码：220 smtp.qq.com Esmtp QQ Mail Server
+发送状态码：EHLO DESKTOP-AN748FA
+接收状态码：250
+发送状态码：AUTH LOGIN
+接收状态码：334
+发送用户名：MTc5MTQ2ODUwMUBxcS5jb20=
+接收状态码：334
+发送密码：b2NkY3JzdXl4Z3JsZWlhZg==
+接收状态码：235
+发送客户端邮箱：MAIL FROM: <1791468501@qq.com>
+接收状态码：250
+发送目的邮箱：RCPT TO: <leeyuxun@163.com>
+接收状态码：250
+发送:DATA
+接收状态码：354
+Date: Wed, 19 Dec 2018 10:01:50 +0800
+From: "1791468501@qq.com" <1791468501@qq.com>
+To: leeyuxun <leeyuxun@163.com>, 
+	lililizhilin <lililizhilin@outlook.com>, 
+	1543209422 <1543209422@qq.com>
+Subject: =?GB2312?B?T1NJxt+y48Sj0M0=?=
+X-Priority: 3
+X-GUID: 64F2797C-79F6-4C1F-9FF6-B0BAB0E22CF1
+X-Has-Attach: no
+X-Mailer: Foxmail 7.2.9.156[cn]
+Mime-Version: 1.0
+Message-ID: <201812191001392754064@qq.com>
+Content-Type: multipart/alternative;
+	boundary="----=_001_NextPart262205206487_=----"
+
+
+This is a multi-part message in MIME format.
+
+------=_001_NextPart262205206487_=----
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Transfer-Encoding: base64
+
+DQq/qrfFyr3Ptc2zu6XBqs2o0MWyzr+8xKPQzaOo06LT76O6T3BlbiBTeXN0ZW0gSW50ZXJjb25u
+ZWN0aW9uIFJlZmVyZW5jZSBNb2RlbKOsy/XQtM6qIE9TSaOpo6y88rPGzqpPU0nEo9DNo6hPU0kg
+bW9kZWyjqaOs0rvW1rjFxO7Eo9DNo6zTybn6vMqx6te8u6/X6davzOGz9qOs0ru49srUzbzKubj3
+1ta8xsvju/rU2srAvee3ts6nxNq7pcGszqrN+MLntcSx6te8v/K83KGjtqjS5dPaSVNPL0lFQyA3
+NDk4LTGhow0K19S2pc/yz8INCrXa0ruy46O606bTw7LjDQq12rb+suOjurHtyr6y4w0KtdrI/bLj
+o7q74buwsuMNCrXay8Sy46O6tKvK5LLjDQq12s7lsuOjus34wuey4w0KtdrB+bLjo7rK/b7dwbTC
+t7LjDQq12sbfsuOjus7vwO2y4w0KDQoNCg0KbGVleXV4dW5AMTYzLmNvbQ0K
+
+------=_001_NextPart262205206487_=----
+Content-Type: text/html;
+	charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charse=
+t=3DGB2312"><style>body { line-height: 1.5; }body { font-size: 10.5pt; fon=
+t-family: 'Microsoft YaHei UI'; color: rgb(0, 0, 0); line-height: 1.5; }bo=
+dy { font-size: 10.5pt; font-family: 'Microsoft YaHei UI'; color: rgb(0, 0=
+, 0); line-height: 1.5; }</style></head><body>=0A<div><span></span><br></d=
+iv><div><div><div style=3D"position: static !important; orphans: 2; text-i=
+ndent: 28px; widows: 2;"><span style=3D"color: rgb(51, 51, 51); font-famil=
+y: arial, =CB=CE=CC=E5, sans-serif;">=BF=AA=B7=C5=CA=BD=CF=B5=CD=B3=BB=A5=
+=C1=AA=CD=A8=D0=C5=B2=CE=BF=BC=C4=A3=D0=CD=A3=A8=D3=A2=D3=EF=A3=BAOpen Sys=
+tem Interconnection Reference Model=A3=AC=CB=F5=D0=B4=CE=AA OSI=A3=A9=A3=
+=AC=BC=F2=B3=C6=CE=AAOSI=C4=A3=D0=CD=A3=A8OSI model=A3=A9=A3=AC=D2=BB=D6=
+=D6=B8=C5=C4=EE=C4=A3=D0=CD=A3=AC=D3=C9=B9=FA=BC=CA=B1=EA=D7=BC=BB=AF=D7=
+=E9=D6=AF=CC=E1=B3=F6=A3=AC=D2=BB=B8=F6=CA=D4=CD=BC=CA=B9=B8=F7=D6=D6=BC=
+=C6=CB=E3=BB=FA=D4=DA=CA=C0=BD=E7=B7=B6=CE=A7=C4=DA=BB=A5=C1=AC=CE=AA=CD=
+=F8=C2=E7=B5=C4=B1=EA=D7=BC=BF=F2=BC=DC=A1=A3=B6=A8=D2=E5=D3=DAISO/IEC 749=
+8-1=A1=A3</span></div></div><div style=3D"orphans: 2; text-indent: 28px; w=
+idows: 2;"><div>=D7=D4=B6=A5=CF=F2=CF=C2</div><div>=B5=DA=D2=BB=B2=E3=A3=
+=BA=D3=A6=D3=C3=B2=E3</div><div>=B5=DA=B6=FE=B2=E3=A3=BA=B1=ED=CA=BE=B2=E3=
+</div><div>=B5=DA=C8=FD=B2=E3=A3=BA=BB=E1=BB=B0=B2=E3</div><div>=B5=DA=CB=
+=C4=B2=E3=A3=BA=B4=AB=CA=E4=B2=E3</div><div>=B5=DA=CE=E5=B2=E3=A3=BA=CD=F8=
+=C2=E7=B2=E3</div><div>=B5=DA=C1=F9=B2=E3=A3=BA=CA=FD=BE=DD=C1=B4=C2=B7=B2=
+=E3</div><div>=B5=DA=C6=DF=B2=E3=A3=BA=CE=EF=C0=ED=B2=E3</div></div></div>=
+=0A<div><br></div><hr style=3D"width: 210px; height: 1px;" color=3D"#b5c4d=
+f" size=3D"1" align=3D"left">=0A<div><span><div style=3D"MARGIN: 10px; FON=
+T-FAMILY: verdana; FONT-SIZE: 10pt"><div>leeyuxun@163.com</div></div></spa=
+n></div>=0A</body></html>
+------=_001_NextPart262205206487_=------
+
+
+.
+接收状态码：250
+发送:QUIT
+接收状态码：221
+邮件发送成功
+——————————————————————————————
+send end time: 2018-12-19 10:1:52
+
+
+目的邮箱2
+连接成功
+本地IP地址：10.122.215.102  SMTP发送端口:25
+send start time: 2018-12-19 10:1:53
+——————————————————————————————
+接收状态码：220 smtp.qq.com Esmtp QQ Mail Server
+发送状态码：EHLO DESKTOP-AN748FA
+接收状态码：250
+发送状态码：AUTH LOGIN
+接收状态码：334
+发送用户名：MTc5MTQ2ODUwMUBxcS5jb20=
+接收状态码：334
+发送密码：b2NkY3JzdXl4Z3JsZWlhZg==
+接收状态码：235
+发送客户端邮箱：MAIL FROM: <1791468501@qq.com>
+接收状态码：250
+发送目的邮箱：RCPT TO: <lililizhilin@outlook.com>
+接收状态码：250
+发送:DATA
+接收状态码：354
+Date: Wed, 19 Dec 2018 10:01:50 +0800
+From: "1791468501@qq.com" <1791468501@qq.com>
+To: leeyuxun <leeyuxun@163.com>, 
+	lililizhilin <lililizhilin@outlook.com>, 
+	1543209422 <1543209422@qq.com>
+Subject: =?GB2312?B?T1NJxt+y48Sj0M0=?=
+X-Priority: 3
+X-GUID: 64F2797C-79F6-4C1F-9FF6-B0BAB0E22CF1
+X-Has-Attach: no
+X-Mailer: Foxmail 7.2.9.156[cn]
+Mime-Version: 1.0
+Message-ID: <201812191001392754064@qq.com>
+Content-Type: multipart/alternative;
+	boundary="----=_001_NextPart262205206487_=----"
+
+
+This is a multi-part message in MIME format.
+
+------=_001_NextPart262205206487_=----
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Transfer-Encoding: base64
+
+DQq/qrfFyr3Ptc2zu6XBqs2o0MWyzr+8xKPQzaOo06LT76O6T3BlbiBTeXN0ZW0gSW50ZXJjb25u
+ZWN0aW9uIFJlZmVyZW5jZSBNb2RlbKOsy/XQtM6qIE9TSaOpo6y88rPGzqpPU0nEo9DNo6hPU0kg
+bW9kZWyjqaOs0rvW1rjFxO7Eo9DNo6zTybn6vMqx6te8u6/X6davzOGz9qOs0ru49srUzbzKubj3
+1ta8xsvju/rU2srAvee3ts6nxNq7pcGszqrN+MLntcSx6te8v/K83KGjtqjS5dPaSVNPL0lFQyA3
+NDk4LTGhow0K19S2pc/yz8INCrXa0ruy46O606bTw7LjDQq12rb+suOjurHtyr6y4w0KtdrI/bLj
+o7q74buwsuMNCrXay8Sy46O6tKvK5LLjDQq12s7lsuOjus34wuey4w0KtdrB+bLjo7rK/b7dwbTC
+t7LjDQq12sbfsuOjus7vwO2y4w0KDQoNCg0KbGVleXV4dW5AMTYzLmNvbQ0K
+
+------=_001_NextPart262205206487_=----
+Content-Type: text/html;
+	charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charse=
+t=3DGB2312"><style>body { line-height: 1.5; }body { font-size: 10.5pt; fon=
+t-family: 'Microsoft YaHei UI'; color: rgb(0, 0, 0); line-height: 1.5; }bo=
+dy { font-size: 10.5pt; font-family: 'Microsoft YaHei UI'; color: rgb(0, 0=
+, 0); line-height: 1.5; }</style></head><body>=0A<div><span></span><br></d=
+iv><div><div><div style=3D"position: static !important; orphans: 2; text-i=
+ndent: 28px; widows: 2;"><span style=3D"color: rgb(51, 51, 51); font-famil=
+y: arial, =CB=CE=CC=E5, sans-serif;">=BF=AA=B7=C5=CA=BD=CF=B5=CD=B3=BB=A5=
+=C1=AA=CD=A8=D0=C5=B2=CE=BF=BC=C4=A3=D0=CD=A3=A8=D3=A2=D3=EF=A3=BAOpen Sys=
+tem Interconnection Reference Model=A3=AC=CB=F5=D0=B4=CE=AA OSI=A3=A9=A3=
+=AC=BC=F2=B3=C6=CE=AAOSI=C4=A3=D0=CD=A3=A8OSI model=A3=A9=A3=AC=D2=BB=D6=
+=D6=B8=C5=C4=EE=C4=A3=D0=CD=A3=AC=D3=C9=B9=FA=BC=CA=B1=EA=D7=BC=BB=AF=D7=
+=E9=D6=AF=CC=E1=B3=F6=A3=AC=D2=BB=B8=F6=CA=D4=CD=BC=CA=B9=B8=F7=D6=D6=BC=
+=C6=CB=E3=BB=FA=D4=DA=CA=C0=BD=E7=B7=B6=CE=A7=C4=DA=BB=A5=C1=AC=CE=AA=CD=
+=F8=C2=E7=B5=C4=B1=EA=D7=BC=BF=F2=BC=DC=A1=A3=B6=A8=D2=E5=D3=DAISO/IEC 749=
+8-1=A1=A3</span></div></div><div style=3D"orphans: 2; text-indent: 28px; w=
+idows: 2;"><div>=D7=D4=B6=A5=CF=F2=CF=C2</div><div>=B5=DA=D2=BB=B2=E3=A3=
+=BA=D3=A6=D3=C3=B2=E3</div><div>=B5=DA=B6=FE=B2=E3=A3=BA=B1=ED=CA=BE=B2=E3=
+</div><div>=B5=DA=C8=FD=B2=E3=A3=BA=BB=E1=BB=B0=B2=E3</div><div>=B5=DA=CB=
+=C4=B2=E3=A3=BA=B4=AB=CA=E4=B2=E3</div><div>=B5=DA=CE=E5=B2=E3=A3=BA=CD=F8=
+=C2=E7=B2=E3</div><div>=B5=DA=C1=F9=B2=E3=A3=BA=CA=FD=BE=DD=C1=B4=C2=B7=B2=
+=E3</div><div>=B5=DA=C6=DF=B2=E3=A3=BA=CE=EF=C0=ED=B2=E3</div></div></div>=
+=0A<div><br></div><hr style=3D"width: 210px; height: 1px;" color=3D"#b5c4d=
+f" size=3D"1" align=3D"left">=0A<div><span><div style=3D"MARGIN: 10px; FON=
+T-FAMILY: verdana; FONT-SIZE: 10pt"><div>leeyuxun@163.com</div></div></spa=
+n></div>=0A</body></html>
+------=_001_NextPart262205206487_=------
+
+
+.
+接收状态码：250
+发送:QUIT
+接收状态码：221
+邮件发送成功
+——————————————————————————————
+send end time: 2018-12-19 10:1:55
+
+
+目的邮箱3
+连接成功
+本地IP地址：10.122.215.102  SMTP发送端口:25
+send start time: 2018-12-19 10:1:56
+——————————————————————————————
+接收状态码：220 smtp.qq.com Esmtp QQ Mail Server
+发送状态码：EHLO DESKTOP-AN748FA
+接收状态码：250
+发送状态码：AUTH LOGIN
+接收状态码：334
+发送用户名：MTc5MTQ2ODUwMUBxcS5jb20=
+接收状态码：334
+发送密码：b2NkY3JzdXl4Z3JsZWlhZg==
+接收状态码：235
+发送客户端邮箱：MAIL FROM: <1791468501@qq.com>
+接收状态码：250
+发送目的邮箱：RCPT TO: <1543209422@qq.com>
+接收状态码：250
+发送:DATA
+接收状态码：354
+Date: Wed, 19 Dec 2018 10:01:50 +0800
+From: "1791468501@qq.com" <1791468501@qq.com>
+To: leeyuxun <leeyuxun@163.com>, 
+	lililizhilin <lililizhilin@outlook.com>, 
+	1543209422 <1543209422@qq.com>
+Subject: =?GB2312?B?T1NJxt+y48Sj0M0=?=
+X-Priority: 3
+X-GUID: 64F2797C-79F6-4C1F-9FF6-B0BAB0E22CF1
+X-Has-Attach: no
+X-Mailer: Foxmail 7.2.9.156[cn]
+Mime-Version: 1.0
+Message-ID: <201812191001392754064@qq.com>
+Content-Type: multipart/alternative;
+	boundary="----=_001_NextPart262205206487_=----"
+
+
+This is a multi-part message in MIME format.
+
+------=_001_NextPart262205206487_=----
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Transfer-Encoding: base64
+
+DQq/qrfFyr3Ptc2zu6XBqs2o0MWyzr+8xKPQzaOo06LT76O6T3BlbiBTeXN0ZW0gSW50ZXJjb25u
+ZWN0aW9uIFJlZmVyZW5jZSBNb2RlbKOsy/XQtM6qIE9TSaOpo6y88rPGzqpPU0nEo9DNo6hPU0kg
+bW9kZWyjqaOs0rvW1rjFxO7Eo9DNo6zTybn6vMqx6te8u6/X6davzOGz9qOs0ru49srUzbzKubj3
+1ta8xsvju/rU2srAvee3ts6nxNq7pcGszqrN+MLntcSx6te8v/K83KGjtqjS5dPaSVNPL0lFQyA3
+NDk4LTGhow0K19S2pc/yz8INCrXa0ruy46O606bTw7LjDQq12rb+suOjurHtyr6y4w0KtdrI/bLj
+o7q74buwsuMNCrXay8Sy46O6tKvK5LLjDQq12s7lsuOjus34wuey4w0KtdrB+bLjo7rK/b7dwbTC
+t7LjDQq12sbfsuOjus7vwO2y4w0KDQoNCg0KbGVleXV4dW5AMTYzLmNvbQ0K
+
+------=_001_NextPart262205206487_=----
+Content-Type: text/html;
+	charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charse=
+t=3DGB2312"><style>body { line-height: 1.5; }body { font-size: 10.5pt; fon=
+t-family: 'Microsoft YaHei UI'; color: rgb(0, 0, 0); line-height: 1.5; }bo=
+dy { font-size: 10.5pt; font-family: 'Microsoft YaHei UI'; color: rgb(0, 0=
+, 0); line-height: 1.5; }</style></head><body>=0A<div><span></span><br></d=
+iv><div><div><div style=3D"position: static !important; orphans: 2; text-i=
+ndent: 28px; widows: 2;"><span style=3D"color: rgb(51, 51, 51); font-famil=
+y: arial, =CB=CE=CC=E5, sans-serif;">=BF=AA=B7=C5=CA=BD=CF=B5=CD=B3=BB=A5=
+=C1=AA=CD=A8=D0=C5=B2=CE=BF=BC=C4=A3=D0=CD=A3=A8=D3=A2=D3=EF=A3=BAOpen Sys=
+tem Interconnection Reference Model=A3=AC=CB=F5=D0=B4=CE=AA OSI=A3=A9=A3=
+=AC=BC=F2=B3=C6=CE=AAOSI=C4=A3=D0=CD=A3=A8OSI model=A3=A9=A3=AC=D2=BB=D6=
+=D6=B8=C5=C4=EE=C4=A3=D0=CD=A3=AC=D3=C9=B9=FA=BC=CA=B1=EA=D7=BC=BB=AF=D7=
+=E9=D6=AF=CC=E1=B3=F6=A3=AC=D2=BB=B8=F6=CA=D4=CD=BC=CA=B9=B8=F7=D6=D6=BC=
+=C6=CB=E3=BB=FA=D4=DA=CA=C0=BD=E7=B7=B6=CE=A7=C4=DA=BB=A5=C1=AC=CE=AA=CD=
+=F8=C2=E7=B5=C4=B1=EA=D7=BC=BF=F2=BC=DC=A1=A3=B6=A8=D2=E5=D3=DAISO/IEC 749=
+8-1=A1=A3</span></div></div><div style=3D"orphans: 2; text-indent: 28px; w=
+idows: 2;"><div>=D7=D4=B6=A5=CF=F2=CF=C2</div><div>=B5=DA=D2=BB=B2=E3=A3=
+=BA=D3=A6=D3=C3=B2=E3</div><div>=B5=DA=B6=FE=B2=E3=A3=BA=B1=ED=CA=BE=B2=E3=
+</div><div>=B5=DA=C8=FD=B2=E3=A3=BA=BB=E1=BB=B0=B2=E3</div><div>=B5=DA=CB=
+=C4=B2=E3=A3=BA=B4=AB=CA=E4=B2=E3</div><div>=B5=DA=CE=E5=B2=E3=A3=BA=CD=F8=
+=C2=E7=B2=E3</div><div>=B5=DA=C1=F9=B2=E3=A3=BA=CA=FD=BE=DD=C1=B4=C2=B7=B2=
+=E3</div><div>=B5=DA=C6=DF=B2=E3=A3=BA=CE=EF=C0=ED=B2=E3</div></div></div>=
+=0A<div><br></div><hr style=3D"width: 210px; height: 1px;" color=3D"#b5c4d=
+f" size=3D"1" align=3D"left">=0A<div><span><div style=3D"MARGIN: 10px; FON=
+T-FAMILY: verdana; FONT-SIZE: 10pt"><div>leeyuxun@163.com</div></div></spa=
+n></div>=0A</body></html>
+------=_001_NextPart262205206487_=------
+
+
+.
+接收状态码：250
+发送:QUIT
+接收状态码：221
+邮件发送成功
+——————————————————————————————
+send end time: 2018-12-19 10:1:59
+
+
+
+
+——————————————————————————————
+end time: 2018-12-19 10:1:59

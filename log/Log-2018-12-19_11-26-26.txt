@@ -1,0 +1,6 @@
+start time: 2018-12-19 11:26:26
+——————————————————————————————
+客户端IP地址：10.122.215.102  端口号:11009
+
+220 Mysmtp Service Ready
+接收不到EHLO，503 Can't receive EHLO

@@ -1,0 +1,75 @@
+start time: 2018-12-19 11:39:24
+——————————————————————————————
+客户端IP地址：10.122.215.102  端口号:11189
+
+220 Mysmtp Service Ready
+EHLO DESKTOP-AN748FA
+
+250 AUTH LOGIN PLAINOK
+250-AUTH=LOGIN PLAIN
+250-STARTTLS
+250 8BITMIME
+AUTH LOGIN
+
+334 VXNlcm5hbWU6
+
+MTc5MTQ2ODUwMUBxcS5jb20=
+
+334 UGFzc3dvcmQ6
+
+b2NkY3JzdXl4Z3JsZWlhZg==
+
+235 Authentication successful
+
+MAIL FROM: <1791468501@qq.com>
+客户端邮箱服务器IP地址: 182.254.34.84  端口号：25
+
+250 OK
+RCPT TO: <leeyuxun@163.com>
+
+250 OK
+DATA
+
+354 Start mail input: end with <CRLF>.<CRLF>
+接收DATA fragment, ...bytes
+
+Date: Wed, 19 Dec 2018 11:39:24 +0800
+From: "1791468501@qq.com" <1791468501@qq.com>
+To: leeyuxun <leeyuxun@163.com>
+Subject: =?GB2312?B?T1NJxt+y48Sj0M0=?=
+X-Priority: 3
+X-GUID: 9B459FD4-934C-4A9C-9F96-9798BC3937CA
+X-Has-Attach: no
+X-Mailer: Foxmail 7.2.9.156[cn]
+Mime-Version: 1.0
+Message-ID: <2018121909401212187538@qq.com>
+Content-Type: multipart/alternative;
+	boundary="----=_001_NextPart367187050277_=----"
+
+
+接收imf
+
+This is a multi-part message in MIME format.
+
+------=_001_NextPart367187050277_=----
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Transfer-Encoding: base64
+
+
+------=_001_NextPart367187050277_=----
+Content-Type: text/html;
+	charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charse=
+t=3DGB2312"><style>body { line-height: 1.5; }body { font-size: 10.5pt; fon=
+t-family: 'Microsoft YaHei UI'; color: rgb(0, 0, 0); line-height: 1.5; }</=
+style></head><body></body></html>
+------=_001_NextPart367187050277_=------
+
+接收不到'.' 503 Can't receive ' . '
+end time: 2018-12-19 11:39:24
+
+
+

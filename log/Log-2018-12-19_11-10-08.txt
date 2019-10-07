@@ -1,0 +1,24 @@
+start time: 2018-12-19 11:10:8
+——————————————————————————————
+客户端IP地址：10.122.215.102  端口号:10887
+
+220 Mysmtp Service Ready
+EHLO DESKTOP-AN748FA
+
+250 AUTH LOGIN PLAINOK
+250-AUTH=LOGIN PLAIN
+250-STARTTLS
+250 8BITMIME
+AUTH LOGIN
+
+334 VXNlcm5hbWU6
+
+MTc5MTQ2ODUwMUBxcS5jb20=
+
+334 UGFzc3dvcmQ6
+
+b2NkY3JzdXl4Z3JsZWlhZg==
+
+235 Authentication successful
+
+接收客户端邮箱ERROR:550 Requested mail action not taken: mail box unavailable

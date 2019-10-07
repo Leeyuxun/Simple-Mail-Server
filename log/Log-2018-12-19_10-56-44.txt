@@ -1,0 +1,28 @@
+start time: 2018-12-19 10:56:44
+——————————————————————————————
+客户端IP地址：10.122.215.102  端口号:10745
+
+220 Mysmtp Service Ready
+EHLO DESKTOP-AN748FA
+
+250 AUTH LOGIN PLAINOK
+250-AUTH=LOGIN PLAIN
+250-STARTTLS
+250 8BITMIME
+AUTH LOGIN
+
+334 VXNlcm5hbWU6
+
+bGlsaWxpemhpbGluQG91dGxvb2suY29t
+
+334 UGFzc3dvcmQ6
+
+WkhJTElOOTkwMjE3
+
+235 Authentication successful
+
+MAIL FROM: <lililizhilin@outlook.com>
+客户端邮箱服务器IP地址: 40.97.197.130  端口号：25
+
+250 OK
+接收目的邮箱ERROR:550 Requested mail action not taken: mail box unavailable
